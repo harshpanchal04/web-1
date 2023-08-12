@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin:0px;
+    outline:none;
+    border:none;
+    
+}
+body{
+   min-height:100%;
+    background: lightblue url("https://imgs.search.brave.com/p3phi5BqBqXon1VmR0Zyqb6bJrTQLiaa7nUXYGo6WWo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvc29saWQtY29s/b3ItMnFhemh4anZy/NnFmdmgwMi5qcGc") repeat fixed ;   
+}
+.new{
+    text-align: center;
+    width:150px;
+    height:150px;
+    margin:100px auto;
+    border: solid 2px blue;
+    padding:8px;
+    
+}
+
+th{
+    margin:9px;
+    text-align: right;
+    
+    padding:4px;
+    padding-left:10px;
+    
+}
+table{
+    text-align: left;
+    padding-left: 10px;
+    
+}
+td:hover{
+    background-color: aqua;
+    
+}
+
+
+
+
+
+
